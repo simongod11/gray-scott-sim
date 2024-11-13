@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../src/gray_scott.h"  // 假设主代码在 src 文件夹中
+#include "../gray_scott.h"  // 假设主代码在 src 文件夹中
 
 // 1
 TEST(GrayScottTest, ParameterTypeMatch) {
